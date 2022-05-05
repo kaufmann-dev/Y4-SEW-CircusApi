@@ -1,0 +1,60 @@
+C:\Users\armin\OneDrive - HTL Krems\_4BHITM\SEW\Circus\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\armin\OneDrive - HTL Krems\_4BHITM\SEW\Circus\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\armin\OneDrive - HTL Krems\_4BHITM\SEW\Circus\Domain\bin\Debug\net6.0\ref\Domain.dll
+C:\Users\armin\OneDrive - HTL Krems\_4BHITM\SEW\Circus\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\armin\OneDrive - HTL Krems\_4BHITM\SEW\Circus\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\armin\OneDrive - HTL Krems\_4BHITM\SEW\Circus\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\armin\OneDrive - HTL Krems\_4BHITM\SEW\Circus\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\armin\OneDrive - HTL Krems\_4BHITM\SEW\Circus\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\armin\OneDrive - HTL Krems\_4BHITM\SEW\Circus\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\armin\OneDrive - HTL Krems\_4BHITM\SEW\Circus\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\armin\OneDrive - HTL Krems\_4BHITM\SEW\Circus\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\armin\OneDrive - HTL Krems\_4BHITM\SEW\Circus\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\armin\OneDrive - HTL Krems\_4BHITM\SEW\Circus\Domain\bin\Debug\net6.0\Model.dll
+C:\Users\armin\OneDrive - HTL Krems\_4BHITM\SEW\Circus\Domain\bin\Debug\net6.0\Model.pdb
+C:\Users\armin\OneDrive - HTL Krems\_4BHITM\SEW\Circus\Domain\obj\Debug\net6.0\Domain.csproj.CopyComplete
+C:\Users\olive\Desktop\Development\Schule\4BHIT\SEW\Blazor\Circus\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\olive\Desktop\Development\Schule\4BHIT\SEW\Blazor\Circus\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\olive\Desktop\Development\Schule\4BHIT\SEW\Blazor\Circus\Domain\bin\Debug\net6.0\ref\Domain.dll
+C:\Users\olive\Desktop\Development\Schule\4BHIT\SEW\Blazor\Circus\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\olive\Desktop\Development\Schule\4BHIT\SEW\Blazor\Circus\Domain\bin\Debug\net6.0\Model.dll
+C:\Users\olive\Desktop\Development\Schule\4BHIT\SEW\Blazor\Circus\Domain\bin\Debug\net6.0\Model.pdb
+C:\Users\olive\Desktop\Development\Schule\4BHIT\SEW\Blazor\Circus\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\olive\Desktop\Development\Schule\4BHIT\SEW\Blazor\Circus\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\Desktop\Development\Schule\4BHIT\SEW\Blazor\Circus\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\olive\Desktop\Development\Schule\4BHIT\SEW\Blazor\Circus\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\olive\Desktop\Development\Schule\4BHIT\SEW\Blazor\Circus\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\olive\Desktop\Development\Schule\4BHIT\SEW\Blazor\Circus\Domain\obj\Debug\net6.0\Domain.csproj.CopyComplete
+C:\Users\olive\Desktop\Development\Schule\4BHIT\SEW\Blazor\Circus\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\olive\Desktop\Development\Schule\4BHIT\SEW\Blazor\Circus\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\olive\Desktop\Development\Schule\4BHIT\SEW\Blazor\Circus\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\serbi\Documents\School projects\CircusNew\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\serbi\Documents\School projects\CircusNew\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\serbi\Documents\School projects\CircusNew\Domain\bin\Debug\net6.0\ref\Domain.dll
+C:\Users\serbi\Documents\School projects\CircusNew\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\serbi\Documents\School projects\CircusNew\Domain\bin\Debug\net6.0\Model.dll
+C:\Users\serbi\Documents\School projects\CircusNew\Domain\bin\Debug\net6.0\Model.pdb
+C:\Users\serbi\Documents\School projects\CircusNew\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\serbi\Documents\School projects\CircusNew\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serbi\Documents\School projects\CircusNew\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\serbi\Documents\School projects\CircusNew\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\serbi\Documents\School projects\CircusNew\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\serbi\Documents\School projects\CircusNew\Domain\obj\Debug\net6.0\Domain.csproj.CopyComplete
+C:\Users\serbi\Documents\School projects\CircusNew\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\serbi\Documents\School projects\CircusNew\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\serbi\Documents\School projects\CircusNew\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\serbi\Documents\School projects\CircusAPI1\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\serbi\Documents\School projects\CircusAPI1\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\serbi\Documents\School projects\CircusAPI1\Domain\bin\Debug\net6.0\ref\Domain.dll
+C:\Users\serbi\Documents\School projects\CircusAPI1\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\serbi\Documents\School projects\CircusAPI1\Domain\bin\Debug\net6.0\Model.dll
+C:\Users\serbi\Documents\School projects\CircusAPI1\Domain\bin\Debug\net6.0\Model.pdb
+C:\Users\serbi\Documents\School projects\CircusAPI1\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\serbi\Documents\School projects\CircusAPI1\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serbi\Documents\School projects\CircusAPI1\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\serbi\Documents\School projects\CircusAPI1\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\serbi\Documents\School projects\CircusAPI1\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\serbi\Documents\School projects\CircusAPI1\Domain\obj\Debug\net6.0\Domain.csproj.CopyComplete
+C:\Users\serbi\Documents\School projects\CircusAPI1\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\serbi\Documents\School projects\CircusAPI1\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\serbi\Documents\School projects\CircusAPI1\Domain\obj\Debug\net6.0\Domain.pdb

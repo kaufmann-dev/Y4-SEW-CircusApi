@@ -1,0 +1,152 @@
+C:\Users\armin\OneDrive - HTL Krems\_4BHITM\SEW\Circus\CircusAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\armin\OneDrive - HTL Krems\_4BHITM\SEW\Circus\CircusAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\armin\OneDrive - HTL Krems\_4BHITM\SEW\Circus\CircusAPI\bin\Debug\net6.0\CircusAPI.exe
+C:\Users\armin\OneDrive - HTL Krems\_4BHITM\SEW\Circus\CircusAPI\bin\Debug\net6.0\CircusAPI.deps.json
+C:\Users\armin\OneDrive - HTL Krems\_4BHITM\SEW\Circus\CircusAPI\bin\Debug\net6.0\CircusAPI.runtimeconfig.json
+C:\Users\armin\OneDrive - HTL Krems\_4BHITM\SEW\Circus\CircusAPI\bin\Debug\net6.0\CircusAPI.dll
+C:\Users\armin\OneDrive - HTL Krems\_4BHITM\SEW\Circus\CircusAPI\bin\Debug\net6.0\ref\CircusAPI.dll
+C:\Users\armin\OneDrive - HTL Krems\_4BHITM\SEW\Circus\CircusAPI\bin\Debug\net6.0\CircusAPI.pdb
+C:\Users\armin\OneDrive - HTL Krems\_4BHITM\SEW\Circus\CircusAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\armin\OneDrive - HTL Krems\_4BHITM\SEW\Circus\CircusAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\armin\OneDrive - HTL Krems\_4BHITM\SEW\Circus\CircusAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\armin\OneDrive - HTL Krems\_4BHITM\SEW\Circus\CircusAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\armin\OneDrive - HTL Krems\_4BHITM\SEW\Circus\CircusAPI\obj\Debug\net6.0\CircusAPI.csproj.AssemblyReference.cache
+C:\Users\armin\OneDrive - HTL Krems\_4BHITM\SEW\Circus\CircusAPI\obj\Debug\net6.0\CircusAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\armin\OneDrive - HTL Krems\_4BHITM\SEW\Circus\CircusAPI\obj\Debug\net6.0\CircusAPI.AssemblyInfoInputs.cache
+C:\Users\armin\OneDrive - HTL Krems\_4BHITM\SEW\Circus\CircusAPI\obj\Debug\net6.0\CircusAPI.AssemblyInfo.cs
+C:\Users\armin\OneDrive - HTL Krems\_4BHITM\SEW\Circus\CircusAPI\obj\Debug\net6.0\CircusAPI.csproj.CoreCompileInputs.cache
+C:\Users\armin\OneDrive - HTL Krems\_4BHITM\SEW\Circus\CircusAPI\obj\Debug\net6.0\CircusAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\armin\OneDrive - HTL Krems\_4BHITM\SEW\Circus\CircusAPI\obj\Debug\net6.0\CircusAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\armin\OneDrive - HTL Krems\_4BHITM\SEW\Circus\CircusAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\armin\OneDrive - HTL Krems\_4BHITM\SEW\Circus\CircusAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\armin\OneDrive - HTL Krems\_4BHITM\SEW\Circus\CircusAPI\obj\Debug\net6.0\scopedcss\bundle\CircusAPI.styles.css
+C:\Users\armin\OneDrive - HTL Krems\_4BHITM\SEW\Circus\CircusAPI\obj\Debug\net6.0\CircusAPI.csproj.CopyComplete
+C:\Users\armin\OneDrive - HTL Krems\_4BHITM\SEW\Circus\CircusAPI\obj\Debug\net6.0\CircusAPI.dll
+C:\Users\armin\OneDrive - HTL Krems\_4BHITM\SEW\Circus\CircusAPI\obj\Debug\net6.0\ref\CircusAPI.dll
+C:\Users\armin\OneDrive - HTL Krems\_4BHITM\SEW\Circus\CircusAPI\obj\Debug\net6.0\CircusAPI.pdb
+C:\Users\armin\OneDrive - HTL Krems\_4BHITM\SEW\Circus\CircusAPI\obj\Debug\net6.0\CircusAPI.genruntimeconfig.cache
+C:\Users\armin\OneDrive - HTL Krems\_4BHITM\SEW\Circus\CircusAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\armin\OneDrive - HTL Krems\_4BHITM\SEW\Circus\CircusAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\armin\OneDrive - HTL Krems\_4BHITM\SEW\Circus\CircusAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\armin\OneDrive - HTL Krems\_4BHITM\SEW\Circus\CircusAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\armin\OneDrive - HTL Krems\_4BHITM\SEW\Circus\CircusAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\armin\OneDrive - HTL Krems\_4BHITM\SEW\Circus\CircusAPI\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\armin\OneDrive - HTL Krems\_4BHITM\SEW\Circus\CircusAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\armin\OneDrive - HTL Krems\_4BHITM\SEW\Circus\CircusAPI\bin\Debug\net6.0\Model.dll
+C:\Users\armin\OneDrive - HTL Krems\_4BHITM\SEW\Circus\CircusAPI\bin\Debug\net6.0\Model.pdb
+C:\Users\armin\OneDrive - HTL Krems\_4BHITM\SEW\Circus\CircusAPI\bin\Debug\net6.0\Domain.dll
+C:\Users\armin\OneDrive - HTL Krems\_4BHITM\SEW\Circus\CircusAPI\bin\Debug\net6.0\Domain.pdb
+C:\Users\olive\Desktop\Development\Schule\4BHIT\SEW\Blazor\Circus\CircusAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\olive\Desktop\Development\Schule\4BHIT\SEW\Blazor\Circus\CircusAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\olive\Desktop\Development\Schule\4BHIT\SEW\Blazor\Circus\CircusAPI\bin\Debug\net6.0\CircusAPI.exe
+C:\Users\olive\Desktop\Development\Schule\4BHIT\SEW\Blazor\Circus\CircusAPI\bin\Debug\net6.0\CircusAPI.deps.json
+C:\Users\olive\Desktop\Development\Schule\4BHIT\SEW\Blazor\Circus\CircusAPI\bin\Debug\net6.0\CircusAPI.runtimeconfig.json
+C:\Users\olive\Desktop\Development\Schule\4BHIT\SEW\Blazor\Circus\CircusAPI\bin\Debug\net6.0\CircusAPI.dll
+C:\Users\olive\Desktop\Development\Schule\4BHIT\SEW\Blazor\Circus\CircusAPI\bin\Debug\net6.0\ref\CircusAPI.dll
+C:\Users\olive\Desktop\Development\Schule\4BHIT\SEW\Blazor\Circus\CircusAPI\bin\Debug\net6.0\CircusAPI.pdb
+C:\Users\olive\Desktop\Development\Schule\4BHIT\SEW\Blazor\Circus\CircusAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\olive\Desktop\Development\Schule\4BHIT\SEW\Blazor\Circus\CircusAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\olive\Desktop\Development\Schule\4BHIT\SEW\Blazor\Circus\CircusAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\olive\Desktop\Development\Schule\4BHIT\SEW\Blazor\Circus\CircusAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\olive\Desktop\Development\Schule\4BHIT\SEW\Blazor\Circus\CircusAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\olive\Desktop\Development\Schule\4BHIT\SEW\Blazor\Circus\CircusAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\olive\Desktop\Development\Schule\4BHIT\SEW\Blazor\Circus\CircusAPI\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\olive\Desktop\Development\Schule\4BHIT\SEW\Blazor\Circus\CircusAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\olive\Desktop\Development\Schule\4BHIT\SEW\Blazor\Circus\CircusAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\olive\Desktop\Development\Schule\4BHIT\SEW\Blazor\Circus\CircusAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\olive\Desktop\Development\Schule\4BHIT\SEW\Blazor\Circus\CircusAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\olive\Desktop\Development\Schule\4BHIT\SEW\Blazor\Circus\CircusAPI\bin\Debug\net6.0\Domain.dll
+C:\Users\olive\Desktop\Development\Schule\4BHIT\SEW\Blazor\Circus\CircusAPI\bin\Debug\net6.0\Model.dll
+C:\Users\olive\Desktop\Development\Schule\4BHIT\SEW\Blazor\Circus\CircusAPI\bin\Debug\net6.0\Domain.pdb
+C:\Users\olive\Desktop\Development\Schule\4BHIT\SEW\Blazor\Circus\CircusAPI\bin\Debug\net6.0\Model.pdb
+C:\Users\olive\Desktop\Development\Schule\4BHIT\SEW\Blazor\Circus\CircusAPI\obj\Debug\net6.0\CircusAPI.csproj.AssemblyReference.cache
+C:\Users\olive\Desktop\Development\Schule\4BHIT\SEW\Blazor\Circus\CircusAPI\obj\Debug\net6.0\CircusAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\Desktop\Development\Schule\4BHIT\SEW\Blazor\Circus\CircusAPI\obj\Debug\net6.0\CircusAPI.AssemblyInfoInputs.cache
+C:\Users\olive\Desktop\Development\Schule\4BHIT\SEW\Blazor\Circus\CircusAPI\obj\Debug\net6.0\CircusAPI.AssemblyInfo.cs
+C:\Users\olive\Desktop\Development\Schule\4BHIT\SEW\Blazor\Circus\CircusAPI\obj\Debug\net6.0\CircusAPI.csproj.CoreCompileInputs.cache
+C:\Users\olive\Desktop\Development\Schule\4BHIT\SEW\Blazor\Circus\CircusAPI\obj\Debug\net6.0\CircusAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\olive\Desktop\Development\Schule\4BHIT\SEW\Blazor\Circus\CircusAPI\obj\Debug\net6.0\CircusAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\olive\Desktop\Development\Schule\4BHIT\SEW\Blazor\Circus\CircusAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\olive\Desktop\Development\Schule\4BHIT\SEW\Blazor\Circus\CircusAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\olive\Desktop\Development\Schule\4BHIT\SEW\Blazor\Circus\CircusAPI\obj\Debug\net6.0\scopedcss\bundle\CircusAPI.styles.css
+C:\Users\olive\Desktop\Development\Schule\4BHIT\SEW\Blazor\Circus\CircusAPI\obj\Debug\net6.0\CircusAPI.csproj.CopyComplete
+C:\Users\olive\Desktop\Development\Schule\4BHIT\SEW\Blazor\Circus\CircusAPI\obj\Debug\net6.0\CircusAPI.dll
+C:\Users\olive\Desktop\Development\Schule\4BHIT\SEW\Blazor\Circus\CircusAPI\obj\Debug\net6.0\ref\CircusAPI.dll
+C:\Users\olive\Desktop\Development\Schule\4BHIT\SEW\Blazor\Circus\CircusAPI\obj\Debug\net6.0\CircusAPI.pdb
+C:\Users\olive\Desktop\Development\Schule\4BHIT\SEW\Blazor\Circus\CircusAPI\obj\Debug\net6.0\CircusAPI.genruntimeconfig.cache
+C:\Users\serbi\Documents\School projects\CircusNew\CircusAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\serbi\Documents\School projects\CircusNew\CircusAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\serbi\Documents\School projects\CircusNew\CircusAPI\bin\Debug\net6.0\CircusAPI.exe
+C:\Users\serbi\Documents\School projects\CircusNew\CircusAPI\bin\Debug\net6.0\CircusAPI.deps.json
+C:\Users\serbi\Documents\School projects\CircusNew\CircusAPI\bin\Debug\net6.0\CircusAPI.runtimeconfig.json
+C:\Users\serbi\Documents\School projects\CircusNew\CircusAPI\bin\Debug\net6.0\CircusAPI.dll
+C:\Users\serbi\Documents\School projects\CircusNew\CircusAPI\bin\Debug\net6.0\ref\CircusAPI.dll
+C:\Users\serbi\Documents\School projects\CircusNew\CircusAPI\bin\Debug\net6.0\CircusAPI.pdb
+C:\Users\serbi\Documents\School projects\CircusNew\CircusAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\serbi\Documents\School projects\CircusNew\CircusAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\serbi\Documents\School projects\CircusNew\CircusAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\serbi\Documents\School projects\CircusNew\CircusAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\serbi\Documents\School projects\CircusNew\CircusAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\serbi\Documents\School projects\CircusNew\CircusAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\serbi\Documents\School projects\CircusNew\CircusAPI\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\serbi\Documents\School projects\CircusNew\CircusAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\serbi\Documents\School projects\CircusNew\CircusAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\serbi\Documents\School projects\CircusNew\CircusAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\serbi\Documents\School projects\CircusNew\CircusAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\serbi\Documents\School projects\CircusNew\CircusAPI\bin\Debug\net6.0\Domain.dll
+C:\Users\serbi\Documents\School projects\CircusNew\CircusAPI\bin\Debug\net6.0\Model.dll
+C:\Users\serbi\Documents\School projects\CircusNew\CircusAPI\bin\Debug\net6.0\Domain.pdb
+C:\Users\serbi\Documents\School projects\CircusNew\CircusAPI\bin\Debug\net6.0\Model.pdb
+C:\Users\serbi\Documents\School projects\CircusNew\CircusAPI\obj\Debug\net6.0\CircusAPI.csproj.AssemblyReference.cache
+C:\Users\serbi\Documents\School projects\CircusNew\CircusAPI\obj\Debug\net6.0\CircusAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serbi\Documents\School projects\CircusNew\CircusAPI\obj\Debug\net6.0\CircusAPI.AssemblyInfoInputs.cache
+C:\Users\serbi\Documents\School projects\CircusNew\CircusAPI\obj\Debug\net6.0\CircusAPI.AssemblyInfo.cs
+C:\Users\serbi\Documents\School projects\CircusNew\CircusAPI\obj\Debug\net6.0\CircusAPI.csproj.CoreCompileInputs.cache
+C:\Users\serbi\Documents\School projects\CircusNew\CircusAPI\obj\Debug\net6.0\CircusAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\serbi\Documents\School projects\CircusNew\CircusAPI\obj\Debug\net6.0\CircusAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\serbi\Documents\School projects\CircusNew\CircusAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\serbi\Documents\School projects\CircusNew\CircusAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\serbi\Documents\School projects\CircusNew\CircusAPI\obj\Debug\net6.0\scopedcss\bundle\CircusAPI.styles.css
+C:\Users\serbi\Documents\School projects\CircusNew\CircusAPI\obj\Debug\net6.0\CircusAPI.csproj.CopyComplete
+C:\Users\serbi\Documents\School projects\CircusNew\CircusAPI\obj\Debug\net6.0\CircusAPI.dll
+C:\Users\serbi\Documents\School projects\CircusNew\CircusAPI\obj\Debug\net6.0\ref\CircusAPI.dll
+C:\Users\serbi\Documents\School projects\CircusNew\CircusAPI\obj\Debug\net6.0\CircusAPI.pdb
+C:\Users\serbi\Documents\School projects\CircusNew\CircusAPI\obj\Debug\net6.0\CircusAPI.genruntimeconfig.cache
+C:\Users\serbi\Documents\School projects\CircusAPI1\CircusAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\serbi\Documents\School projects\CircusAPI1\CircusAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\serbi\Documents\School projects\CircusAPI1\CircusAPI\bin\Debug\net6.0\CircusAPI.exe
+C:\Users\serbi\Documents\School projects\CircusAPI1\CircusAPI\bin\Debug\net6.0\CircusAPI.deps.json
+C:\Users\serbi\Documents\School projects\CircusAPI1\CircusAPI\bin\Debug\net6.0\CircusAPI.runtimeconfig.json
+C:\Users\serbi\Documents\School projects\CircusAPI1\CircusAPI\bin\Debug\net6.0\CircusAPI.dll
+C:\Users\serbi\Documents\School projects\CircusAPI1\CircusAPI\bin\Debug\net6.0\ref\CircusAPI.dll
+C:\Users\serbi\Documents\School projects\CircusAPI1\CircusAPI\bin\Debug\net6.0\CircusAPI.pdb
+C:\Users\serbi\Documents\School projects\CircusAPI1\CircusAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\serbi\Documents\School projects\CircusAPI1\CircusAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\serbi\Documents\School projects\CircusAPI1\CircusAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\serbi\Documents\School projects\CircusAPI1\CircusAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\serbi\Documents\School projects\CircusAPI1\CircusAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\serbi\Documents\School projects\CircusAPI1\CircusAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\serbi\Documents\School projects\CircusAPI1\CircusAPI\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\serbi\Documents\School projects\CircusAPI1\CircusAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\serbi\Documents\School projects\CircusAPI1\CircusAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\serbi\Documents\School projects\CircusAPI1\CircusAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\serbi\Documents\School projects\CircusAPI1\CircusAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\serbi\Documents\School projects\CircusAPI1\CircusAPI\bin\Debug\net6.0\Domain.dll
+C:\Users\serbi\Documents\School projects\CircusAPI1\CircusAPI\bin\Debug\net6.0\Model.dll
+C:\Users\serbi\Documents\School projects\CircusAPI1\CircusAPI\bin\Debug\net6.0\Domain.pdb
+C:\Users\serbi\Documents\School projects\CircusAPI1\CircusAPI\bin\Debug\net6.0\Model.pdb
+C:\Users\serbi\Documents\School projects\CircusAPI1\CircusAPI\obj\Debug\net6.0\CircusAPI.csproj.AssemblyReference.cache
+C:\Users\serbi\Documents\School projects\CircusAPI1\CircusAPI\obj\Debug\net6.0\CircusAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serbi\Documents\School projects\CircusAPI1\CircusAPI\obj\Debug\net6.0\CircusAPI.AssemblyInfoInputs.cache
+C:\Users\serbi\Documents\School projects\CircusAPI1\CircusAPI\obj\Debug\net6.0\CircusAPI.AssemblyInfo.cs
+C:\Users\serbi\Documents\School projects\CircusAPI1\CircusAPI\obj\Debug\net6.0\CircusAPI.csproj.CoreCompileInputs.cache
+C:\Users\serbi\Documents\School projects\CircusAPI1\CircusAPI\obj\Debug\net6.0\CircusAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\serbi\Documents\School projects\CircusAPI1\CircusAPI\obj\Debug\net6.0\CircusAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\serbi\Documents\School projects\CircusAPI1\CircusAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\serbi\Documents\School projects\CircusAPI1\CircusAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\serbi\Documents\School projects\CircusAPI1\CircusAPI\obj\Debug\net6.0\scopedcss\bundle\CircusAPI.styles.css
+C:\Users\serbi\Documents\School projects\CircusAPI1\CircusAPI\obj\Debug\net6.0\CircusAPI.csproj.CopyComplete
+C:\Users\serbi\Documents\School projects\CircusAPI1\CircusAPI\obj\Debug\net6.0\CircusAPI.dll
+C:\Users\serbi\Documents\School projects\CircusAPI1\CircusAPI\obj\Debug\net6.0\ref\CircusAPI.dll
+C:\Users\serbi\Documents\School projects\CircusAPI1\CircusAPI\obj\Debug\net6.0\CircusAPI.pdb
+C:\Users\serbi\Documents\School projects\CircusAPI1\CircusAPI\obj\Debug\net6.0\CircusAPI.genruntimeconfig.cache
